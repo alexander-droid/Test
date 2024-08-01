@@ -34,6 +34,7 @@ class MainActivity : ComponentActivity() {
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     //lol
     //lol
+    //fix
     Text(
         text = "Hello $name!",
         modifier = modifier
