@@ -40,6 +40,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     //fix
     //lol__
     //lol__
+    //fix__
+    //fix__
     //lol___
     //lol___
     Text(
